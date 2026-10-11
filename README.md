@@ -1,55 +1,45 @@
-# holiday-yield-analysis
-Excel portfolio analysing holiday booking trends, pricing and commercial performance.
+# Holiday Yield Management & Pricing Analysis
 
+**Excel Portfolio Project | Commercial Analytics | October 2026**
 
-Holiday Yield Management & Pricing Analysis
+## Project Overview
 
-Excel | Data Analysis | Commercial Analytics
+An Excel-based commercial analytics project exploring how booking trends, seat utilisation and competitor pricing can inform holiday revenue-management decisions.
 
-Project Overview
+Using a synthetic dataset of 72 booking records across six destinations, I analysed destination performance, developed a dashboard and evaluated hypothetical pricing scenarios.
 
-This project explores how holiday booking trends, seat utilisation and competitor pricing can inform commercial decisions.
+## Skills Demonstrated
 
-Using a synthetic dataset containing 72 booking records across six destinations, I developed an Excel dashboard to assess destination performance and investigate potential pricing opportunities.
+- **Excel:** PivotTables, XLOOKUP, IF/AND formulas and conditional formatting
+- **Data Analysis:** Booking trends, load factors and competitor pricing
+- **Visualisation:** Performance dashboards and charts
+- **Commercial Analysis:** Pricing scenarios, contribution calculations and decision-making
 
-Tools & Techniques
+## Key Findings
 
-Microsoft Excel
+**Tenerife:** Highest seat utilisation at 57.8%, despite average package pricing approximately 6.1% above competitors.
 
-PivotTables
+**Malaga:** Lowest seat utilisation at 43.4%, but the only destination experiencing positive weekly booking growth (+4.95%).
 
-XLOOKUP
+**Rome:** Weekly booking volumes fell by 20.28%, indicating a need to investigate demand, seasonality and departure timing.
 
-IF and AND formulas
+## Pricing Scenario Analysis
 
-Conditional formatting
+I evaluated a hypothetical 5% price reduction and its effect on total contribution.
 
-Data visualisation
+| Scenario | Expected Bookings | Total Contribution |
+|---|---:|---:|
+| Original price (£800) | 20 | £6,000 |
+| Discounted price (£760) | 22 | £5,720 |
 
-Pricing and contribution analysis
+Under these assumptions, maintaining the original price generated £280 more contribution, demonstrating the importance of evaluating profitability alongside sales volume.
 
-Key Findings
+## Project Files
 
-Tenerife: Highest seat utilisation at 57.8%, despite average pricing approximately 6.1% above competitors.
+📊 [View Excel Analysis Workbook](holiday_yield_portfolio_polished.xlsx)
 
-Malaga: Lowest seat utilisation at 43.4%, but the only destination showing positive weekly booking growth (+4.95%).
+📄 [View PDF Case Study](holiday_yield_portfolio_case_study.pdf)
 
-Rome: Weekly bookings declined by 20.28%, suggesting a need to investigate demand and departure timing.
+## Data Disclaimer
 
-Pricing Analysis
-
-I compared two hypothetical pricing scenarios to evaluate their effect on total contribution.
-
-Original pricing: £6,000 contribution
-
-5% discount: £5,720 contribution
-
-Under the modelled assumptions, retaining the original price generated £280 more contribution.
-
-Project Files
-
-Excel Workbook: Interactive analysis, formulas, PivotTables and dashboards.
-
-PDF Case Study: Summary of findings, commercial considerations and recommendations.
-
-All booking data is synthetic and used for educational portfolio purposes. It does not represent actual TUI or competitor performance.
+This project uses synthetic data for portfolio and skills-development purposes. Figures do not represent actual TUI bookings, pricing or commercial performance.
